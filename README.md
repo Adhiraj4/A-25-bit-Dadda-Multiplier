@@ -7,3 +7,5 @@ It is pipelined across 3 stages to make it meet timing; however, it can be easil
 Code was created to be performed in Xilinx Vivado, but it is portable and can be easily used in any other platform. 
 
 3 stimuli files (.txt) have been provided for the tb, stimulus for A, B, and the expected output. 
+
+Design is created to meet the clock frequency of 400 MHz. 
