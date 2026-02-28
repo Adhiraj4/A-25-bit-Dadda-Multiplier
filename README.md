@@ -5,3 +5,5 @@ The Carry select adder at the end is an implementation of a 50 bit bit CSLA; and
 It is pipelined across 3 stages to make it meet timing; however, it can be easily removed, ensure that the necessary changes are made in the Test Bench (remove the clock waits).
 
 Code was created to be performed in Xilinx Vivado, but it is portable and can be easily used in any other platform. 
+
+3 stimuli files (.txt) have been provided for the tb, stimulus for A, B, and the expected output. 
